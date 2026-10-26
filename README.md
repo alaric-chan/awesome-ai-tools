@@ -190,7 +190,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [ReBillion.ai](https://tc.rebillion.ai/) - AI-powered transaction coordination and workflow automation for real estate professionals
 - [Perch Reader](https://perch.app/) - Free blog and newsletter aggregator with AI summaries and text-to-speech
 - [X-doc AI](https://x-doc.ai/) - The most accurate AI translator
-
+- [BerryDeck](https://berrydeck.cn/) - Chinese-language AI presentation app that creates visually consistent slide decks from briefs, outlines or document materials, with per-slide refinement and PPTX, PDF or image export.
 
 ### Meeting assistants
 
