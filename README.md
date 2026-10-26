@@ -192,6 +192,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [X-doc AI](https://x-doc.ai/) - The most accurate AI translator
 - [BerryDeck](https://berrydeck.cn/) - Chinese-language AI presentation app that creates visually consistent slide decks from briefs, outlines or document materials, with per-slide refinement and PPTX, PDF or image export.
 
+
 ### Meeting assistants
 
 - [Otter.ai](https://otter.ai/) - A meeting assistant that records audio, writes notes, automatically captures slides, and generates summaries.
